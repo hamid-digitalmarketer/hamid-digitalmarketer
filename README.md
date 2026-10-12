@@ -1,99 +1,85 @@
 <h1 align="center">Muhammad Hamid</h1>
-<h3 align="center">Digital Marketing Head | SEO, Social Media & Ads Specialist</h3>
+<h3 align="center">Digital Marketing Head | Performance Marketing & MarTech Engineering Specialist</h3>
 
 <p align="center">
-  <a href="https://abouthamid.web.app/"><img src="https://img.shields.io/badge/Portfolio-abouthamid.web.app-2ea44f" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/muhammad-hamid-digital-marketing/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hamid-0077b5" alt="LinkedIn"></a>
-  <a href="mailto:mhamidlad@gmail.com"><img src="https://img.shields.io/badge/Email-mhamidlad%40gmail.com-red" alt="Email"></a>
+  <a href="https://abouthamid.web.app/"><img src="https://img.shields.io/badge/Hire%20Me-Consulting%20%26%20Audits-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio & Booking"></a>
+  <a href="https://www.linkedin.com/in/muhammad-hamid-digital-marketing/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mhamidlad@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire%20Now-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">7+ years of experience helping companies grow through search, paid media, social, and e-commerce.</p>
+<p align="center">
+  <b>7+ years of experience helping high-growth brands, healthcare networks, BPOs, and e-commerce companies scale profitable revenue through search, paid media, analytics, and custom adtech software.</b>
+</p>
 
 ---
 
-## About Me
+## 🚀 Flagship Open-Source MarTech & AdTech Engines
 
-I am a Digital Marketing Head with over 7 years of experience across SEO, Google/Meta/TikTok Ads, social media marketing, analytics, and conversion optimization. My strength is connecting marketing strategy with technical execution - I plan campaigns, optimize websites and funnels, manage budgets, and lead teams toward measurable ROI.
+I build production-grade, open-source software to solve the most expensive technical challenges in modern performance marketing:
 
-I have worked with BPOs, healthcare, textiles, bedding, fashion e-commerce, and SaaS companies in Pakistan and international markets (US, UK), combining brand building, lead generation, and data-driven growth.
+| Engine / Repository | Core Problem Solved | Key Deliverables & Tech | CI Status |
+|---|---|---|:---:|
+| [**`ppc-waste-detector`**](https://github.com/hamid-digitalmarketer/ppc-waste-detector) | Detects search query bleed, internal cannibalization, PMax junk mobile apps, and smart bidding runaway anomalies | Google Ads Editor exclusion CSVs, interactive Tailwind CSS dashboard, SQLite persistence | [![CI](https://github.com/hamid-digitalmarketer/ppc-waste-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ppc-waste-detector/actions) |
+| [**`conversion-tracking-doctor`**](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor) | Catches duplicate conversions, unhashed URL PII leaks, broken Enhanced Conversions, and iOS/ad-blocker signal loss | GTM custom JS deduplication variables, Meta CAPI remediation payloads, interactive dashboard | [![CI](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor/actions) |
+| [**`meta-lead-quality-analyzer`**](https://github.com/hamid-digitalmarketer/meta-lead-quality-analyzer) | Filters disposable burner emails, fake phone numbers, speed bots, and calculates true Cost-Per-Qualified-Lead (CPQL) | Automated Meta CAPI offline event payloads, CRM suppression lists, executive report | [![CI](https://github.com/hamid-digitalmarketer/meta-lead-quality-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/meta-lead-quality-analyzer/actions) |
+| [**`geo-visibility-lab`**](https://github.com/hamid-digitalmarketer/geo-visibility-lab) | Audits Google Local 3-Pack 5x5 coordinate drop-offs, directory NAP citation drift, and review velocity decay | Schema.org JSON-LD generator, RFC 7946 GeoJSON heatmap exporter, 5x5 SVG matrix | [![CI](https://github.com/hamid-digitalmarketer/geo-visibility-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/geo-visibility-lab/actions) |
+| [**`seo-doctor`**](https://github.com/hamid-digitalmarketer/seo-doctor) | Automated technical SEO site crawler for broken links, canonical loops, redirect chains, and indexation leaks | BFS crawling engine, crawl regression comparisons (`seo-doctor compare`), standalone HTML reports | [![CI](https://github.com/hamid-digitalmarketer/seo-doctor/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/seo-doctor/actions) |
+| [**`ai-marketing-mix-copilot`**](https://github.com/hamid-digitalmarketer/ai-marketing-mix-copilot) | Bayesian Marketing Mix Modeling (MMM) & Causal Incrementality testing to optimize multi-million ad budgets | PyMC Bayesian engine, multi-agent evaluation lab, budget allocation optimizer | [![CI](https://github.com/hamid-digitalmarketer/ai-marketing-mix-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ai-marketing-mix-copilot/actions) |
+| [**`ai-marketing-growth-os`**](https://github.com/hamid-digitalmarketer/ai-marketing-growth-os) | Autonomous agentic marketing intelligence platform with human-in-the-loop governance | Multi-agent execution loop, real-time telemetry, campaign orchestration | [![CI](https://github.com/hamid-digitalmarketer/ai-marketing-growth-os/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ai-marketing-growth-os/actions) |
 
-## Core Expertise
+---
 
-**1. Search Engine Optimization**
+## 💼 Client Services & Done-For-You Offerings
 
-![On-Page SEO](https://img.shields.io/badge/On--Page%20SEO-Expert-blue) ![Off-Page SEO](https://img.shields.io/badge/Off--Page%20SEO-Expert-blue) ![Technical SEO](https://img.shields.io/badge/Technical%20SEO-Expert-blue) ![Schema Markup](https://img.shields.io/badge/Schema%20Markup-Expert-blue)
+Are you looking to eliminate wasted ad spend, fix broken conversion tracking, or scale organic search traffic? I partner with select brands, SaaS companies, and growth agencies:
 
-**2. Paid Advertising & Performance Marketing**
+### 1. 🔍 Forensic Ad Spend & Waste Audits
+- Deep forensic analysis of Google Ads, Meta Ads, and Performance Max campaigns.
+- Detection of search query bleed, cross-campaign cannibalization, and junk display placements.
+- **Typical Outcome**: Reclaims **15% to 35%** of ad spend within 14 days without dropping conversions.
 
-![Google Ads](https://img.shields.io/badge/Google%20Ads-Expert-orange) ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-Expert-orange) ![TikTok Ads](https://img.shields.io/badge/TikTok%20Ads-Expert-orange) ![SEM](https://img.shields.io/badge/SEM-Expert-orange)
+### 2. ⚙️ Turnkey Tracking & Server-Side CAPI Architecture
+- Full Google Analytics 4 (GA4), Server-Side Google Tag Manager (sGTM), and Meta Conversions API Gateway deployment.
+- Enhanced Conversions hashing validation, transaction deduplication, and privacy compliance.
+- **Typical Outcome**: Bypasses browser ad blockers, achieves **8.5+ Meta Event Quality Score**, recovers unmeasured sales.
 
-**3. Social Media & Content Marketing**
+### 3. 🎯 Meta Lead Gen Quality & CRM Offline Optimization
+- Screening mechanisms for Meta Instant Forms to eliminate fake phone numbers and burner emails.
+- Automated offline conversion sync feeding closed-won CRM revenue back into Meta's delivery algorithm.
+- **Typical Outcome**: Reduces Cost-Per-Qualified-Lead (CPQL) by **30%–55%**.
 
-![Facebook](https://img.shields.io/badge/Facebook-Expert-1877f2) ![Instagram](https://img.shields.io/badge/Instagram-Expert-e4405f) ![Email Marketing](https://img.shields.io/badge/Email%20Marketing-Expert-9cf) ![Content Strategy](https://img.shields.io/badge/Content%20Strategy-Expert-9cf)
+### 4. 🗺️ Multi-Location Local SEO & Proximity Domination
+- High-density 5x5 geo-grid rank tracking and Google Business Profile optimization.
+- Directory citation cleanup across 50+ aggregators and valid Schema.org JSON-LD deployment.
+- **Typical Outcome**: Expands Google Local 3-Pack visibility radius across service areas.
 
-**4. Web Development & CMS**
+### 5. 👑 Fractional Head of Digital Marketing / Growth Retainer
+- End-to-end multi-channel strategy (Paid Search, Social, SEO, CRO, Retention).
+- Team leadership, budget allocation, vendor management, and full-funnel reporting.
 
-![WordPress](https://img.shields.io/badge/WordPress-21759b) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588a) ![Shopify](https://img.shields.io/badge/Shopify-96bf48) ![Web Development](https://img.shields.io/badge/Web%20Development-6f42c1)
+---
 
-**5. E-commerce & Conversion Rate Optimization**
+## 📈 Proven Track Record & Key Achievements
 
-![Google Merchant Center](https://img.shields.io/badge/Google%20Merchant%20Center-4285f4) ![CRO](https://img.shields.io/badge/CRO-Expert-6f42c1) ![Product Optimization](https://img.shields.io/badge/Product%20Optimization-6f42c1) ![CRM Integration](https://img.shields.io/badge/CRM%20Integration-6f42c1)
+- **MHW Clothing**: Grew organic website traffic by **+40%**, improved conversion rate by **+75%**, expanded brand reach by **+90%**, and reduced Customer Acquisition Cost (CAC) by **-70%** via Google Ads, SEO, and funnels.
+- **Healthrix BPO**: Spearheaded digital customer acquisition scaling from early startup to **200+ employees**, expanding US enterprise healthcare and tech client contracts.
+- **Riceland Healthcare System**: Directing digital marketing across multi-location hospital networks, patient acquisition funnels, and search visibility.
+- **Latest Bedding (UK)**: Built and led cross-functional marketing team, scaling e-commerce revenue and organic search presence in competitive UK home textile markets.
 
-**6. Analytics & Marketing Automation**
+---
 
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-e37400) ![HubSpot](https://img.shields.io/badge/HubSpot-ff7a59) ![SEMrush](https://img.shields.io/badge/SEMrush-ff5757)
+## 🛠️ Core Expertise
 
-**7. Technical SEO & Website Performance**
+**Performance Marketing**: Google Ads (Search, PMax, Shopping), Meta Ads (Lead Gen, Catalog Sales), TikTok Ads, SEM, Programmatic.  
+**Analytics & Tracking**: Google Analytics 4, Server-Side GTM, Meta CAPI, Google Enhanced Conversions, BigQuery, SQL, Mixpanel.  
+**SEO & Web Architecture**: Technical SEO, Schema.org JSON-LD, Local SEO (GBP), WordPress, WooCommerce, Shopify, Web Performance.  
+**Marketing Automation**: HubSpot, Salesforce, Klaviyo, Python scripts, API pipelines, Zapier, Webhooks.
 
-![Page Speed Optimization](https://img.shields.io/badge/Page%20Speed%20Optimization-00c853) ![YouTube SEO](https://img.shields.io/badge/YouTube%20SEO-ff0000) ![AI Content Strategy](https://img.shields.io/badge/AI%20Content%20Strategy-00c853)
+---
 
-**8. Digital Strategy & Team Leadership**
+## 📬 Get in Touch / Schedule a Call
 
-![Campaign Strategy](https://img.shields.io/badge/Campaign%20Strategy-Expert-333) ![Budget Management](https://img.shields.io/badge/Budget%20Management-Expert-333) ![Team Leadership](https://img.shields.io/badge/Team%20Leadership-Expert-333) ![Lead Generation](https://img.shields.io/badge/Lead%20Generation-Expert-333)
-
-## Professional Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Digital Marketing Head | Healthrix BPO, Lahore | Jan 2025 - Present |
-| Lead Digital Marketing | Riceland Healthcare System (Remote, Beaumont TX) | Jan 2025 - Present |
-| Digital Marketing Head | Rank BPO Pvt Ltd, Lahore | Oct 2024 - Jul 2025 |
-| Digital Marketing Strategist | Acrosoft.io, Lahore | Feb 2022 - Sep 2024 |
-| E-commerce Marketing Specialist | MHW Clothing, Lahore | May 2022 - Present |
-| Digital Marketing Specialist | Gente.pk (Beauty & Fragrance) | Jan 2023 - Feb 2024 |
-| Digital Marketing Manager | Latest Bedding Pvt. Ltd (UK), Faisalabad | Jan 2017 - Dec 2022 |
-| Digital Marketing Manager | Rana Textile Mills, Faisalabad | Jul 2016 - Nov 2017 |
-| Off-Page & On-Page SEO Expert | HappyGamer.com (Remote) | Apr 2015 - Dec 2019 |
-| Backlinking Expert | CelebrityInsider.org (Remote) | Jan 2017 - Dec 2022 |
-
-## Key Achievements
-
-- **MHW Clothing** - grew website traffic by **40%**, improved conversion rates by **75%**, expanded brand reach and social following by **90%**, and reduced customer acquisition cost by **70%** through SEO, Google Ads, targeted social campaigns, email marketing, and product page optimization. Managed a monthly marketing budget of **PKR 150,000**.
-- **Healthrix BPO** - led digital growth from startup to **200+ employees**, opened a new office, and expanded US market services (web development, mobile apps, SEO, paid ads).
-- **Latest Bedding (UK)** - built and led a high-performing digital marketing team, improved organic traffic, social reach, and email open rates through SEO, Google Ads, and social advertising.
-- **Rana Textile Mills** - led multi-channel digital strategy (SEO, SEM, social, email) achieving KPIs and driving brand growth.
-
-## Featured Projects
-
-| Project | Role | Link |
-| --- | --- | --- |
-| IntuitJobs | Web Developer & SEO Specialist | https://intuitjobs.com/ |
-| NurseJobsFinder | Web Development & SEO | https://nursejobsfinder.com/ |
-| Professional Portfolio | Personal branding & web development | https://abouthamid.web.app/ |
-| Latest Bedding E-commerce | Shopify, HubSpot CRM, Google Merchant Center, courier integrations | Client project |
-
-## Certifications & Education
-
-- Google Digital Marketing & E-commerce Certificate - Coursera (2022)
-- Google Digital Garage Digital Marketing Certificate (2021)
-- Skillshop Badges (Accredible)
-- 14 LinkedIn Skill Assessment badges
-- Bachelor of Commerce - University of the Punjab (2008)
-- Diploma in Commerce - Punjab Board of Technical Education, Lahore (2006)
-
-## Contact
-
-- Portfolio: https://abouthamid.web.app/
-- LinkedIn: https://www.linkedin.com/in/muhammad-hamid-digital-marketing/
-- Email: mhamidlad@gmail.com
-- GitHub: https://github.com/hamid-digitalmarketer
+- 🌐 **Portfolio & Case Studies**: [https://abouthamid.web.app/](https://abouthamid.web.app/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/muhammad-hamid-digital-marketing/](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
+- 📩 **Email**: [`mhamidlad@gmail.com`](mailto:mhamidlad@gmail.com)
+- 🐙 **GitHub Organization**: [https://github.com/hamid-digitalmarketer](https://github.com/hamid-digitalmarketer)
