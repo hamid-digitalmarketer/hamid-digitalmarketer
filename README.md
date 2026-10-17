@@ -2,8 +2,9 @@
 <h3 align="center">Digital Marketing Head | Performance Marketing & MarTech Engineering Specialist</h3>
 
 <p align="center">
-  <a href="https://abouthamid.web.app/"><img src="https://img.shields.io/badge/Hire%20Me-Consulting%20%26%20Audits-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio & Booking"></a>
+  <a href="https://hamid-resume.web.app/"><img src="https://img.shields.io/badge/Hire%20Me-Consulting%20%26%20Audits-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio & Booking"></a>
   <a href="https://www.linkedin.com/in/muhammad-hamid-digital-marketing/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/923167417135"><img src="https://img.shields.io/badge/WhatsApp-Contact-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:mhamidlad@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire%20Now-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -79,7 +80,9 @@ Are you looking to eliminate wasted ad spend, fix broken conversion tracking, or
 
 ## 📬 Get in Touch / Schedule a Call
 
-- 🌐 **Portfolio & Case Studies**: [https://abouthamid.web.app/](https://abouthamid.web.app/)
+- 💬 **WhatsApp (primary)**: [+92 316 7417135](https://wa.me/923167417135) — fastest for client inquiries and job opportunities
+- 🌐 **Portfolio & Case Studies**: [https://hamid-resume.web.app/](https://hamid-resume.web.app/)
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/muhammad-hamid-digital-marketing/](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
 - 📩 **Email**: [`mhamidlad@gmail.com`](mailto:mhamidlad@gmail.com)
-- 🐙 **GitHub Organization**: [https://github.com/hamid-digitalmarketer](https://github.com/hamid-digitalmarketer)
+- 🛠️ **Marketing Services**: [https://abouthamid.web.app/](https://abouthamid.web.app/)
+- 🐙 **GitHub**: [https://github.com/hamid-digitalmarketer](https://github.com/hamid-digitalmarketer)
