@@ -2,10 +2,10 @@
 <h3 align="center">Digital Marketing Head | Performance Marketing & MarTech Engineering Specialist</h3>
 
 <p align="center">
-  <a href="https://hamid-resume.web.app/"><img src="https://img.shields.io/badge/Hire%20Me-Consulting%20%26%20Audits-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio & Booking"></a>
+  <a href="https://wa.me/923167417135"><img src="https://img.shields.io/badge/WhatsApp-Direct%20Chat-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direct"></a>
+  <a href="https://hamid-resume.web.app/"><img src="https://img.shields.io/badge/Hire%20Me-Portfolio%20%26%20Audits-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio & Audits"></a>
   <a href="https://www.linkedin.com/in/muhammad-hamid-digital-marketing/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://wa.me/923167417135"><img src="https://img.shields.io/badge/WhatsApp-Contact-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="mailto:mhamidlad@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire%20Now-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/hamid-digitalmarketer"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@ I build production-grade, open-source software to solve the most expensive techn
 
 | Engine / Repository | Core Problem Solved | Key Deliverables & Tech | CI Status |
 |---|---|---|:---:|
+| [**`dynamic-schema-generator`**](https://github.com/hamid-digitalmarketer/dynamic-schema-generator) | Enterprise WordPress JSON-LD `@graph` schema builder, Elementor widget extractor, LocalBusiness NAP manager, and validation engine | Pure object-oriented PHP plugin, Elementor integration adapter, Schema.org 2026 `@graph` architecture, zero DOM overhead | [![CI](https://github.com/hamid-digitalmarketer/dynamic-schema-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/dynamic-schema-generator/actions) |
 | [**`searchpulse-ai`**](https://github.com/hamid-digitalmarketer/searchpulse-ai) | AI-powered Google Search Console intelligence: true mathematical CTR aggregation, striking-distance keyword opportunity finder, organic traffic drop diagnostics, content decay recovery, and keyword cannibalization detection | FastAPI backend, interactive glassmorphic UI, 90-day demo sandbox, standalone HTML/CSV reports, direct WhatsApp sprint funnels | [![CI](https://github.com/hamid-digitalmarketer/searchpulse-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/searchpulse-ai/actions) |
 | [**`ppc-waste-detector`**](https://github.com/hamid-digitalmarketer/ppc-waste-detector) | Detects search query bleed, internal cannibalization, PMax junk mobile apps, and smart bidding runaway anomalies | Google Ads Editor exclusion CSVs, interactive Tailwind CSS dashboard, SQLite persistence | [![CI](https://github.com/hamid-digitalmarketer/ppc-waste-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ppc-waste-detector/actions) |
 | [**`conversion-tracking-doctor`**](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor) | Catches duplicate conversions, unhashed URL PII leaks, broken Enhanced Conversions, and iOS/ad-blocker signal loss | GTM custom JS deduplication variables, Meta CAPI remediation payloads, interactive dashboard | [![CI](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor/actions) |
@@ -86,9 +87,7 @@ Are you looking to eliminate wasted ad spend, fix broken conversion tracking, or
 
 ## 📬 Get in Touch / Schedule a Call
 
-- 💬 **WhatsApp (primary)**: [+92 316 7417135](https://wa.me/923167417135) — fastest for client inquiries and job opportunities
-- 🌐 **Portfolio & Case Studies**: [https://hamid-resume.web.app/](https://hamid-resume.web.app/)
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/muhammad-hamid-digital-marketing/](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
-- 📩 **Email**: [`mhamidlad@gmail.com`](mailto:mhamidlad@gmail.com)
-- 🛠️ **Marketing Services**: [https://abouthamid.web.app/](https://abouthamid.web.app/)
-- 🐙 **GitHub**: [https://github.com/hamid-digitalmarketer](https://github.com/hamid-digitalmarketer)
+- 💬 **WhatsApp (Exclusive Hiring & Consulting Contact)**: [+92 316 7417135](https://wa.me/923167417135) — Direct line for recruiter inquiries, client projects, and technical audits
+- 🌐 **Portfolio & Interactive Case Studies**: [https://hamid-resume.web.app/](https://hamid-resume.web.app/)
+- 💼 **LinkedIn Profile**: [https://www.linkedin.com/in/muhammad-hamid-digital-marketing/](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
+- 🐙 **GitHub Repositories**: [https://github.com/hamid-digitalmarketer](https://github.com/hamid-digitalmarketer)
