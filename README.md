@@ -1,95 +1,94 @@
-<h1 align="center">Muhammad Hamid</h1>
-<h3 align="center">Digital Marketing Head | Performance Marketing & MarTech Engineering Specialist</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://wa.me/923167417135"><img src="https://img.shields.io/badge/WhatsApp-Direct%20Chat-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direct"></a>
-  <a href="https://hamid-resume.web.app/"><img src="https://img.shields.io/badge/Hire%20Me-Portfolio%20%26%20Audits-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio & Audits"></a>
-  <a href="https://www.linkedin.com/in/muhammad-hamid-digital-marketing/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/hamid-digitalmarketer"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+# Muhammad Hamid
 
-<p align="center">
-  <b>7+ years of experience helping high-growth brands, healthcare networks, BPOs, and e-commerce companies scale profitable revenue through search, paid media, analytics, and custom adtech software.</b>
-</p>
+**Digital Marketing Head · MarTech Engineer**
 
----
+I build open-source tooling for technical SEO, paid media forensics, and server-side analytics —
+and I contribute the same kind of fixes back to projects other teams depend on.
 
-## 🚀 Flagship Open-Source MarTech & AdTech Engines
+[![Portfolio](https://img.shields.io/badge/Portfolio-abouthamid.web.app-0b7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abouthamid.web.app/)
+[![Resume](https://img.shields.io/badge/Resume-Interactive-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white)](https://hamid-resume.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Direct-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923167417135)
 
-I build production-grade, open-source software to solve the most expensive technical challenges in modern performance marketing:
-
-| Engine / Repository | Core Problem Solved | Key Deliverables & Tech | CI Status |
-|---|---|---|:---:|
-| [**`whatsapp-attribution-router`**](https://github.com/hamid-digitalmarketer/whatsapp-attribution-router) | Captures campaign UTM parameters, generates attributed WhatsApp click-to-chat links, and syncs leads with Google Sheets & GoHighLevel | Vanilla JavaScript (<4KB), Python 3.11/3.12, FastAPI, 48h event deduplication, Google Sheets API v4, GoHighLevel v2 | [![CI](https://github.com/hamid-digitalmarketer/whatsapp-attribution-router/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/whatsapp-attribution-router/actions) |
-| [**`conversionbridge`**](https://github.com/hamid-digitalmarketer/conversionbridge) | Privacy-first server-side conversion tracking gateway for Meta Conversions API & GA4 with fail-closed consent and deduplication | Python 3.11/3.12, FastAPI, Firebase Cloud Functions v2, Firestore atomic deduplication, SHA-256 PII hashing | [![CI](https://github.com/hamid-digitalmarketer/conversionbridge/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/conversionbridge/actions) |
-| [**`dynamic-schema-generator`**](https://github.com/hamid-digitalmarketer/dynamic-schema-generator) | Enterprise WordPress JSON-LD `@graph` schema builder, Elementor widget extractor, LocalBusiness NAP manager, and validation engine | Pure object-oriented PHP plugin, Elementor integration adapter, Schema.org 2026 `@graph` architecture, zero DOM overhead | [![CI](https://github.com/hamid-digitalmarketer/dynamic-schema-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/dynamic-schema-generator/actions) |
-| [**`searchpulse-ai`**](https://github.com/hamid-digitalmarketer/searchpulse-ai) | AI-powered Google Search Console intelligence: true mathematical CTR aggregation, striking-distance keyword opportunity finder, organic traffic drop diagnostics, content decay recovery, and keyword cannibalization detection | FastAPI backend, interactive glassmorphic UI, 90-day demo sandbox, standalone HTML/CSV reports, direct WhatsApp sprint funnels | [![CI](https://github.com/hamid-digitalmarketer/searchpulse-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/searchpulse-ai/actions) |
-| [**`ppc-waste-detector`**](https://github.com/hamid-digitalmarketer/ppc-waste-detector) | Detects search query bleed, internal cannibalization, PMax junk mobile apps, and smart bidding runaway anomalies | Google Ads Editor exclusion CSVs, interactive Tailwind CSS dashboard, SQLite persistence | [![CI](https://github.com/hamid-digitalmarketer/ppc-waste-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ppc-waste-detector/actions) |
-| [**`conversion-tracking-doctor`**](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor) | Catches duplicate conversions, unhashed URL PII leaks, broken Enhanced Conversions, and iOS/ad-blocker signal loss | GTM custom JS deduplication variables, Meta CAPI remediation payloads, interactive dashboard | [![CI](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/conversion-tracking-doctor/actions) |
-| [**`meta-lead-quality-analyzer`**](https://github.com/hamid-digitalmarketer/meta-lead-quality-analyzer) | Filters disposable burner emails, fake phone numbers, speed bots, and calculates true Cost-Per-Qualified-Lead (CPQL) | Automated Meta CAPI offline event payloads, CRM suppression lists, executive report | [![CI](https://github.com/hamid-digitalmarketer/meta-lead-quality-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/meta-lead-quality-analyzer/actions) |
-| [**`geo-visibility-lab`**](https://github.com/hamid-digitalmarketer/geo-visibility-lab) | Audits Google Local 3-Pack 5x5 coordinate drop-offs, directory NAP citation drift, and review velocity decay | Schema.org JSON-LD generator, RFC 7946 GeoJSON heatmap exporter, 5x5 SVG matrix | [![CI](https://github.com/hamid-digitalmarketer/geo-visibility-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/geo-visibility-lab/actions) |
-| [**`seo-doctor`**](https://github.com/hamid-digitalmarketer/seo-doctor) | Automated technical SEO site crawler for broken links, canonical loops, redirect chains, and indexation leaks | BFS crawling engine, crawl regression comparisons (`seo-doctor compare`), standalone HTML reports | [![CI](https://github.com/hamid-digitalmarketer/seo-doctor/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/seo-doctor/actions) |
-| [**`ai-marketing-mix-copilot`**](https://github.com/hamid-digitalmarketer/ai-marketing-mix-copilot) | Bayesian Marketing Mix Modeling (MMM) & Causal Incrementality testing to optimize multi-million ad budgets | PyMC Bayesian engine, multi-agent evaluation lab, budget allocation optimizer | [![CI](https://github.com/hamid-digitalmarketer/ai-marketing-mix-copilot/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ai-marketing-mix-copilot/actions) |
-| [**`ai-marketing-growth-os`**](https://github.com/hamid-digitalmarketer/ai-marketing-growth-os) | Autonomous agentic marketing intelligence platform with human-in-the-loop governance | Multi-agent execution loop, real-time telemetry, campaign orchestration | [![CI](https://github.com/hamid-digitalmarketer/ai-marketing-growth-os/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ai-marketing-growth-os/actions) |
-| [**`ai-agent-testing-lab`**](https://github.com/hamid-digitalmarketer/ai-agent-testing-lab) | Automated reliability, factual accuracy, and evaluation harness for AI marketing agents | Pytest evaluation harness, prompt injection tests, Docker verification | [![CI](https://github.com/hamid-digitalmarketer/ai-agent-testing-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ai-agent-testing-lab/actions) |
-| [**`ai-search-visibility-auditor`**](https://github.com/hamid-digitalmarketer/ai-search-visibility-auditor) | Generative Engine Optimization (GEO) & AI answer engine visibility auditor (ChatGPT, Perplexity, Gemini) | Semantic entity extraction, LLM answer cite scoring, Streamlit UI | [![CI](https://github.com/hamid-digitalmarketer/ai-search-visibility-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ai-search-visibility-auditor/actions) |
-| [**`ecommerce-seo-optimizer`**](https://github.com/hamid-digitalmarketer/ecommerce-seo-optimizer) | E-commerce catalog SEO metadata optimizer and product title/description enrichment | Automated bulk catalog analysis, length validator, Streamlit dashboard | [![CI](https://github.com/hamid-digitalmarketer/ecommerce-seo-optimizer/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ecommerce-seo-optimizer/actions) |
-| [**`ppc-performance-dashboard`**](https://github.com/hamid-digitalmarketer/ppc-performance-dashboard) | Interactive Google & Meta Ads performance analysis, period-over-period comparisons, and KPI reporting | Automated data normalization, Plotly visualizations, Streamlit app | [![CI](https://github.com/hamid-digitalmarketer/ppc-performance-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/ppc-performance-dashboard/actions) |
-| [**`seo-audit-tool`**](https://github.com/hamid-digitalmarketer/seo-audit-tool) | Fast on-page technical SEO scanner and multi-page duplicate content analyzer | Pure Python HTML parser, duplicate title/description detection, Plotly reports | [![CI](https://github.com/hamid-digitalmarketer/seo-audit-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/hamid-digitalmarketer/seo-audit-tool/actions) |
+</div>
 
 ---
 
-## 💼 Client Services & Done-For-You Offerings
+## Open source contributions
 
-Are you looking to eliminate wasted ad spend, fix broken conversion tracking, or scale organic search traffic? I partner with select brands, SaaS companies, and growth agencies:
+**30 merged pull requests across 15 open-source projects**, with 79 more currently in review.
+Every fix ships with a regression test and reproduces the defect before it is patched.
 
-### 1. 🔍 Forensic Ad Spend & Waste Audits
-- Deep forensic analysis of Google Ads, Meta Ads, and Performance Max campaigns.
-- Detection of search query bleed, cross-campaign cannibalization, and junk display placements.
-- **Typical Outcome**: Reclaims **15% to 35%** of ad spend within 14 days without dropping conversions.
+| Project | Merged | What the fixes covered |
+|---|:---:|---|
+| [vibgrate/cli](https://github.com/vibgrate/cli) | 7 | Vulnerability-scan reporting, lockfile edge cases, snapshot tests for CLI output |
+| [simple-invoicing-free-gst-billing-software](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 5 | Invoice/credit-note date-window correctness, GST totals, timezone-safe filters |
+| [selimfirat/pysad](https://github.com/selimfirat/pysad) | 3 | Anomaly-detection edge cases, input validation, API robustness |
+| [lukeautry/tsoa](https://github.com/lukeautry/tsoa) | 2 | Type-safe routing, bundled template resolution |
+| [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2 | MCP tool annotations, hermetic test isolation |
+| [rdlugs/sentryward](https://github.com/rdlugs/sentryward) | 2 | SSRF range blocking (NAT64/6to4), login-timing enumeration |
+| [supabase/supabase-py](https://github.com/supabase/supabase-py) | 1 | PostgREST filter serialization |
+| [exmergo/dex](https://github.com/exmergo/dex), [opencomplai](https://github.com/Opencomplai/opencomplai), [modeldiff](https://github.com/OpenWave-India/modeldiff), [aws-samples](https://github.com/aws-samples/sample-aws-genai-db-modernizer), [rag-docker](https://github.com/mikesilvers/rag-docker) and more | 8 | Security hardening, CI reliability, dependency alignment, test coverage |
 
-### 2. ⚙️ Turnkey Tracking & Server-Side CAPI Architecture
-- Full Google Analytics 4 (GA4), Server-Side Google Tag Manager (sGTM), and Meta Conversions API Gateway deployment.
-- Enhanced Conversions hashing validation, transaction deduplication, and privacy compliance.
-- **Typical Outcome**: Bypasses browser ad blockers, achieves **8.5+ Meta Event Quality Score**, recovers unmeasured sales.
-
-### 3. 🎯 Meta Lead Gen Quality & CRM Offline Optimization
-- Screening mechanisms for Meta Instant Forms to eliminate fake phone numbers and burner emails.
-- Automated offline conversion sync feeding closed-won CRM revenue back into Meta's delivery algorithm.
-- **Typical Outcome**: Reduces Cost-Per-Qualified-Lead (CPQL) by **30%–55%**.
-
-### 4. 🗺️ Multi-Location Local SEO & Proximity Domination
-- High-density 5x5 geo-grid rank tracking and Google Business Profile optimization.
-- Directory citation cleanup across 50+ aggregators and valid Schema.org JSON-LD deployment.
-- **Typical Outcome**: Expands Google Local 3-Pack visibility radius across service areas.
-
-### 5. 👑 Fractional Head of Digital Marketing / Growth Retainer
-- End-to-end multi-channel strategy (Paid Search, Social, SEO, CRO, Retention).
-- Team leadership, budget allocation, vendor management, and full-funnel reporting.
+→ [See all pull requests](https://github.com/hamid-digitalmarketer?tab=pull-requests)
 
 ---
 
-## 📈 Proven Track Record & Key Achievements
+## Featured projects
 
-- **MHW Clothing**: Grew organic website traffic by **+40%**, improved conversion rate by **+75%**, expanded brand reach by **+90%**, and reduced Customer Acquisition Cost (CAC) by **-70%** via Google Ads, SEO, and funnels.
-- **Healthrix BPO**: Spearheaded digital customer acquisition scaling from early startup to **200+ employees**, expanding US enterprise healthcare and tech client contracts.
-- **Riceland Healthcare System**: Directing digital marketing across multi-location hospital networks, patient acquisition funnels, and search visibility.
-- **Latest Bedding (UK)**: Built and led cross-functional marketing team, scaling e-commerce revenue and organic search presence in competitive UK home textile markets.
-
----
-
-## 🛠️ Core Expertise
-
-**Performance Marketing**: Google Ads (Search, PMax, Shopping), Meta Ads (Lead Gen, Catalog Sales), TikTok Ads, SEM, Programmatic.  
-**Analytics & Tracking**: Google Analytics 4, Server-Side GTM, Meta CAPI, Google Enhanced Conversions, BigQuery, SQL, Mixpanel.  
-**SEO & Web Architecture**: Technical SEO, Schema.org JSON-LD, Local SEO (GBP), WordPress, WooCommerce, Shopify, Web Performance.  
-**Marketing Automation**: HubSpot, Salesforce, Klaviyo, Python scripts, API pipelines, Zapier, Webhooks.
+| Project | What it does | Stack |
+|---|---|---|
+| [**shopify-growth-mcp**](https://github.com/hamid-digitalmarketer/shopify-growth-mcp) | Production MCP server exposing 61 tools for Shopify ops: SEO audits, GEO readiness, feed quality, inventory intelligence | TypeScript · MCP |
+| [**conversionbridge**](https://github.com/hamid-digitalmarketer/conversionbridge) | Privacy-first server-side conversion gateway for Meta CAPI and GA4 with fail-closed consent and atomic deduplication | Python · FastAPI · Firebase |
+| [**whatsapp-attribution-router**](https://github.com/hamid-digitalmarketer/whatsapp-attribution-router) | UTM-preserving WhatsApp click-to-chat attribution with 48h deduplication, Sheets and GoHighLevel sync | JavaScript · Python |
+| [**ppc-waste-detector**](https://github.com/hamid-digitalmarketer/ppc-waste-detector) | Finds search-query bleed, cannibalization, PMax junk traffic and zero-conversion spend in Google/Meta Ads | Python · SQLite |
+| [**searchpulse-ai**](https://github.com/hamid-digitalmarketer/searchpulse-ai) | Google Search Console intelligence: CTR models, striking-distance opportunities, traffic-drop diagnostics | FastAPI · Python |
+| [**seo-doctor**](https://github.com/hamid-digitalmarketer/seo-doctor) | Technical SEO crawler: broken links, canonical loops, redirect chains, crawl-over-crawl comparison | Python CLI |
+| [**dynamic-schema-generator**](https://github.com/hamid-digitalmarketer/dynamic-schema-generator) | WordPress JSON-LD `@graph` engine with Elementor extraction, NAP management and validation | PHP |
+| [**ai-search-visibility-auditor**](https://github.com/hamid-digitalmarketer/ai-search-visibility-auditor) | GEO auditing: AI-crawler access, `llms.txt` validation, AI-citation readiness scoring | Python · Streamlit |
 
 ---
 
-## 📬 Get in Touch / Schedule a Call
+## Toolbox
 
-- 💬 **WhatsApp (Exclusive Hiring & Consulting Contact)**: [+92 316 7417135](https://wa.me/923167417135) — Direct line for recruiter inquiries, client projects, and technical audits
-- 🌐 **Portfolio & Interactive Case Studies**: [https://hamid-resume.web.app/](https://hamid-resume.web.app/)
-- 💼 **LinkedIn Profile**: [https://www.linkedin.com/in/muhammad-hamid-digital-marketing/](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
-- 🐙 **GitHub Repositories**: [https://github.com/hamid-digitalmarketer](https://github.com/hamid-digitalmarketer)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Server--Side%20GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+
+**Analytics & tracking** — GA4, server-side GTM, Meta Conversions API, enhanced conversions, event deduplication, BigQuery
+**Performance media** — Google Ads (Search, Shopping, PMax), Meta Ads, TikTok Ads, negative-keyword and waste audits
+**SEO engineering** — technical SEO, Schema.org JSON-LD, GEO/`llms.txt`, local SEO, Core Web Vitals, crawl architecture
+
+---
+
+## Selected results
+
+| Engagement | Outcome |
+|---|---|
+| MHW Clothing | Organic traffic +40%, conversion rate +75%, CAC −70% |
+| Healthrix BPO | Scaled acquisition to 200+ employees; won US healthcare and tech contracts |
+| Riceland Healthcare System | Multi-location patient-acquisition funnels and search visibility |
+| Latest Bedding (UK) | Built and led the cross-functional e-commerce marketing team |
+
+---
+
+## Work with me
+
+- **Ad-spend forensics** — reclaim 15–35% of wasted spend without losing conversions
+- **Tracking architecture** — GA4 + sGTM + Meta CAPI deployments with validated enhanced conversions
+- **Lead quality** — disposable-email/bot filtering and CRM offline conversion sync to lower CPQL
+- **Local SEO** — 5×5 proximity-grid tracking, GBP and citation cleanup
+- **Fractional Head of Digital Marketing** — full-funnel strategy, team leadership, budget ownership
+
+📬 [WhatsApp +92 316 7417135](https://wa.me/923167417135) · [abouthamid.web.app](https://abouthamid.web.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
+
+<sub>Lahore, Pakistan · Open to consulting and full-time leadership roles</sub>
