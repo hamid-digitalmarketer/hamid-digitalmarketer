@@ -12,10 +12,10 @@ and I send the same class of fixes back upstream to the projects my stack actual
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Direct-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923167417135)
 
-![Merged PRs](https://img.shields.io/badge/merged%20PRs-30-2ea44f?style=flat-square)
-![Open PRs](https://img.shields.io/badge/open%20PRs-79-0969da?style=flat-square)
-![Projects](https://img.shields.io/badge/upstream%20projects-19-6f42c1?style=flat-square)
-![Public repos](https://img.shields.io/badge/public%20repos-76-6e7781?style=flat-square)
+![Merged PRs](https://img.shields.io/badge/merged%20PRs-39-2ea44f?style=flat-square)
+![Open PRs](https://img.shields.io/badge/open%20PRs-70-0969da?style=flat-square)
+![Upstream projects](https://img.shields.io/badge/upstream%20projects-20-6f42c1?style=flat-square)
+![Public repos](https://img.shields.io/badge/public%20repos-79-6e7781?style=flat-square)
 
 </div>
 
@@ -23,38 +23,47 @@ and I send the same class of fixes back upstream to the projects my stack actual
 
 ## Upstream contributions
 
-**30 merged pull requests across 15 projects**, with 79 more open. Every fix ships with a regression test that reproduces the defect before it is patched — no drive-by formatting PRs.
+**39 merged pull requests across 20 projects**, with 70 more in review. Every fix ships with a regression test that reproduces the defect before it is patched — no drive-by formatting PRs, no badge farming.
 
 | Project | Merged | What the fixes covered |
 |---|:---:|---|
-| [vibgrate/cli](https://github.com/vibgrate/cli) | 7 | Vulnerability-scan reporting, lockfile edge cases (pnpm catalogs/engines), CLI snapshot tests |
-| [simple-invoicing](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 5 | Invoice / credit-note date-window correctness, GST totals, timezone-safe filters |
-| [selimfirat/pysad](https://github.com/selimfirat/pysad) | 3 | Anomaly-detection edge cases, input validation, API robustness |
-| [lukeautry/tsoa](https://github.com/lukeautry/tsoa) | 2 | Type-safe routing, bundled route-template resolution, metadata deduplication |
-| [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2 | MCP tool annotations, hermetic test isolation |
-| [rdlugs/sentryward](https://github.com/rdlugs/sentryward) | 2 | SSRF range blocking (NAT64 / 6to4), login-timing account enumeration |
-| [anveshachuri/recarena](https://github.com/anveshachuri/recarena) | 1 | Batch simulator state handling |
-| [cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit) | 1 | Config audit correctness |
-| [exmergo/dex](https://github.com/exmergo/dex) | 1 | Security hardening |
-| [kondratevdev/imgproxykit](https://github.com/kondratevdev/imgproxykit) | 1 | Image proxy edge cases |
-| [mikesilvers/rag-docker](https://github.com/mikesilvers/rag-docker) | 1 | Offline model loading / pre-cached embeddings |
-| [OpenWave-India/modeldiff](https://github.com/OpenWave-India/modeldiff) | 1 | Model diff correctness |
-| [Opencomplai/opencomplai](https://github.com/Opencomplai/opencomplai) | 1 | CI reliability, container health |
+| [vibgrate/cli](https://github.com/vibgrate/cli) | 7 | SBOM and lockfile edge cases (pnpm catalogs/engines, Swift `Package.resolved` v1, Cargo root crates, Go workspaces), `vg scan` reporting snapshots |
+| [simple-invoicing](https://github.com/nikhilb2/simple-invoicing-free-gst-billing-software) | 5 | Invoice and credit-note date windows, GST credited-total comparison, ESLint cleanup, password policy |
+| [iamvisheshsrivastava/Smart_CSV_Toolkit](https://github.com/iamvisheshsrivastava/Smart_CSV_Toolkit) | 3 | pandas 2.x `applymap` removal, readable pipeline option labels, `size_multiplier` help text |
+| [selimfirat/pysad](https://github.com/selimfirat/pysad) | 3 | Full type hints for LODA and RSHash, postprocessing and streaming-scaler examples |
+| [lukeautry/tsoa](https://github.com/lukeautry/tsoa) | 3 | Bundled `@tsoa/cli` route-template resolution, metadata deduplication, `Swagger.Discriminator` declarations |
+| [rdlugs/sentryward](https://github.com/rdlugs/sentryward) | 2 | SSRF-prone NAT64 / 6to4 / reserved IPv4 blocking, login-timing account enumeration |
+| [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 2 | MCP tool annotations, hermetic session/auth test isolation |
+| [iamvisheshsrivastava/AirKube](https://github.com/iamvisheshsrivastava/AirKube) | 2 | Neo4j connector cleanup in `finally`, clean 404 for missing KG models |
+| [exmergo/dex](https://github.com/exmergo/dex) | 1 | Declared-join validation reporting missing columns instead of failing `--verify` |
+| [iamvisheshsrivastava/ab-lab](https://github.com/iamvisheshsrivastava/ab-lab) | 1 | Input validation for binomial/continuous simulation helpers |
+| [iamvisheshsrivastava/geniebot](https://github.com/iamvisheshsrivastava/geniebot) | 1 | Placeholder-message handling on `/summarize` when the LLM is unconfigured |
+| [Opencomplai/opencomplai](https://github.com/Opencomplai/opencomplai) | 1 | CI concurrency and permission tightening |
 | [supabase/supabase-py](https://github.com/supabase/supabase-py) | 1 | PostgREST filter serialization (`null` / booleans in `in_()`) |
-| [aws-samples/genai-db-modernizer](https://github.com/aws-samples/sample-aws-genai-db-modernizer) | 1 | Dependency alignment |
+| [mikesilvers/rag-docker](https://github.com/mikesilvers/rag-docker) | 1 | Offline loading of pre-cached sentence-transformers models |
+| [aws-samples/genai-db-modernizer](https://github.com/aws-samples/sample-aws-genai-db-modernizer) | 1 | Dependency floor alignment with the ATX image |
+| [anveshachuri/recarena](https://github.com/anveshachuri/recarena) | 1 | Repeated-slate check computed once in `BatchSimulator.step` |
+| [cfgaudit/cfgaudit](https://github.com/cfgaudit/cfgaudit) | 1 | Every `--package` / `-p` flag checked for a version pin |
+| [wemake-services/imgproxykit](https://github.com/wemake-services/imgproxykit) | 1 | Django import typo in smoke tests, failures propagated to exit code |
+| [OpenWave-India/modeldiff](https://github.com/OpenWave-India/modeldiff) | 1 | Non-ASCII reports when stdout is redirected (cp1252 → UTF-8) |
+| [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver) | 1 | CLI rejects window/limit values below one |
 
 **Most recent merges**
 
 | Merged | Project | Change |
 |---|---|---|
+| 2026-11-10 | [iamvisheshsrivastava/AirKube#28](https://github.com/iamvisheshsrivastava/AirKube/pull/28) | `fix` — clean 404 for missing KG models plus endpoint coverage |
+| 2026-11-10 | [iamvisheshsrivastava/Smart_CSV_Toolkit#30](https://github.com/iamvisheshsrivastava/Smart_CSV_Toolkit/pull/30) | `fix(steps)` — correct Dataset Multiplier help text |
+| 2026-11-10 | [iamvisheshsrivastava/Smart_CSV_Toolkit#28](https://github.com/iamvisheshsrivastava/Smart_CSV_Toolkit/pull/28) | `fix` — replace removed `DataFrame.applymap` with `map` |
+| 2026-11-10 | [iamvisheshsrivastava/ab-lab#20](https://github.com/iamvisheshsrivastava/ab-lab/pull/20) | `fix` — validate simulation inputs before allocating |
+| 2026-11-10 | [iamvisheshsrivastava/geniebot#24](https://github.com/iamvisheshsrivastava/geniebot/pull/24) | `fix` — edit placeholder message on `/summarize` |
+| 2026-11-09 | [laaielichter/Gulliver#95](https://github.com/laaielichter/Gulliver/pull/95) | `fix(cli)` — refuse windows and limits below one |
+| 2026-11-09 | [lukeautry/tsoa#1925](https://github.com/lukeautry/tsoa/pull/1925) | `fix` — resolve built-in route templates when `@tsoa/cli` is bundled |
 | 2026-11-06 | [rdlugs/sentryward#226](https://github.com/rdlugs/sentryward/pull/226) | `fix(security)` — prevent account enumeration via login timing |
-| 2026-11-04 | [mikesilvers/rag-docker#620](https://github.com/mikesilvers/rag-docker/pull/620) | `fix(api)` — load pre-cached sentence-transformers model offline |
-| 2026-11-04 | [doobidoo/mcp-memory-service#1853](https://github.com/doobidoo/mcp-memory-service/pull/1853) | `fix(registry)` — mark `memory_graph` read-write in tool annotations |
-| 2026-11-03 | [lukeautry/tsoa#1927](https://github.com/lukeautry/tsoa/pull/1927) | `refactor(metadata)` — deduplicate binary body parameter checks |
-| 2026-11-03 | [vibgrate/cli#539](https://github.com/vibgrate/cli/pull/539) | `test(lockfile)` — pnpm catalog / engines edge-case fixture |
-| 2026-11-02 | [supabase/supabase-py#1863](https://github.com/supabase/supabase-py/pull/1863) | `fix(postgrest)` — serialize null and booleans in `in_()` |
 
-**In review now (79 open)** — the largest single block is a locale-correctness sweep in [iamkun/dayjs](https://github.com/iamkun/dayjs) (**53 locales** where `yearStart` disagreed with CLDR `firstDay`/week rules), followed by work in `iamvisheshsrivastava/*` (Smart_CSV_Toolkit, AirKube, geniebot, ab-lab), `Opencomplai/opencomplai`, `Dpro-at/Tel-Agent`, `finos/open-resource-broker`, `OpnForm/OpnForm`, `adbar/trafilatura`, `wandb/rai-toolkit`, `date-fns/date-fns`, `google/sbsim` and `datamodel-code-generator`.
+**In review now (70 open)** — the largest single block is a locale-correctness sweep in [iamkun/dayjs](https://github.com/iamkun/dayjs) (**53 locales** where `yearStart` disagreed with CLDR `firstDay`/week rules), followed by work in `iamvisheshsrivastava/*` (geniebot, AirKube, ab-lab), `adbar/trafilatura`, `markline-dev/markline`, `finos/open-resource-broker`, `wandb/rai-toolkit`, `google/sbsim`, `date-fns/date-fns`, `OpnForm/OpnForm`, `Dpro-at/Tel-Agent`, `pygrpc/pygrpc-native`, `MysterionRise/pubchem-finder` and `datamodel-code-generator`.
+
+To date that is 160 pull requests opened — 39 merged, 70 open, 51 closed without merge (mostly upstream preference for a different implementation). Closed branches are left closed rather than re-pinged.
 
 → [See all pull requests](https://github.com/hamid-digitalmarketer?tab=pull-requests)
 
@@ -113,6 +122,7 @@ and I send the same class of fixes back upstream to the projects my stack actual
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![GTM](https://img.shields.io/badge/Server--Side%20GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
@@ -122,7 +132,7 @@ and I send the same class of fixes back upstream to the projects my stack actual
 **Analytics & tracking** — GA4, server-side GTM, Meta Conversions API, enhanced conversions, event deduplication, BigQuery
 **Performance media** — Google Ads (Search, Shopping, PMax), Meta Ads, TikTok Ads, negative-keyword and waste audits
 **SEO engineering** — technical SEO, Schema.org JSON-LD, GEO / `llms.txt`, local SEO, Core Web Vitals, crawl architecture
-**Engineering** — Python, TypeScript, FastAPI, Node.js, PHP, SQL, MCP servers, pytest / Vitest / Jest
+**Engineering** — Python, TypeScript, Go, FastAPI, Node.js, PHP, SQL, MCP servers, pytest / Vitest / Jest
 
 ---
 
@@ -147,4 +157,4 @@ and I send the same class of fixes back upstream to the projects my stack actual
 
 📬 [WhatsApp +92 316 7417135](https://wa.me/923167417135) · [abouthamid.web.app](https://abouthamid.web.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
 
-<sub>Lahore, Pakistan · Open to consulting and full-time leadership roles · Contributions verified from the GitHub API on 2026-11-07</sub>
+<sub>Lahore, Pakistan · Open to consulting and full-time leadership roles · All metrics verified from the GitHub API on 2026-11-11</sub>
