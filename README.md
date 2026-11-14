@@ -12,9 +12,9 @@ and I send the same class of fixes back upstream to the projects my stack actual
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Direct-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923167417135)
 
-![Merged PRs](https://img.shields.io/badge/merged%20PRs-39-2ea44f?style=flat-square)
-![Open PRs](https://img.shields.io/badge/open%20PRs-70-0969da?style=flat-square)
-![Upstream projects](https://img.shields.io/badge/upstream%20projects-20-6f42c1?style=flat-square)
+![Merged PRs](https://img.shields.io/badge/merged%20PRs-43-2ea44f?style=flat-square)
+![Open PRs](https://img.shields.io/badge/open%20PRs-67-0969da?style=flat-square)
+![Upstream projects](https://img.shields.io/badge/upstream%20projects-22-6f42c1?style=flat-square)
 ![Public repos](https://img.shields.io/badge/public%20repos-79-6e7781?style=flat-square)
 
 </div>
@@ -23,7 +23,7 @@ and I send the same class of fixes back upstream to the projects my stack actual
 
 ## Upstream contributions
 
-**39 merged pull requests across 20 projects**, with 70 more in review. Every fix ships with a regression test that reproduces the defect before it is patched — no drive-by formatting PRs, no badge farming.
+**43 merged pull requests across 22 projects**, with 67 more in review. Every fix ships with a regression test that reproduces the defect before it is patched — no drive-by formatting PRs, no badge farming.
 
 | Project | Merged | What the fixes covered |
 |---|:---:|---|
@@ -47,23 +47,25 @@ and I send the same class of fixes back upstream to the projects my stack actual
 | [wemake-services/imgproxykit](https://github.com/wemake-services/imgproxykit) | 1 | Django import typo in smoke tests, failures propagated to exit code |
 | [OpenWave-India/modeldiff](https://github.com/OpenWave-India/modeldiff) | 1 | Non-ASCII reports when stdout is redirected (cp1252 → UTF-8) |
 | [laaielichter/Gulliver](https://github.com/laaielichter/Gulliver) | 1 | CLI rejects window/limit values below one |
+| [markline-dev/markline](https://github.com/markline-dev/markline) | 1 | OpenAPI sample generation: sanitise tag-derived result variable names |
+| [adbar/trafilatura](https://github.com/adbar/trafilatura) | 1 | Drop heading permalink anchors (`¶`/`§`) from extracted text |
 
 **Most recent merges**
 
 | Merged | Project | Change |
 |---|---|---|
+| 2026-11-13 | [markline-dev/markline#56](https://github.com/markline-dev/markline/pull/56) | `fix(openapi)` — sanitise tag-derived result variable names in SDK samples |
+| 2026-11-11 | [adbar/trafilatura#1086](https://github.com/adbar/trafilatura/pull/1086) | `fix(htmlprocessing)` — drop heading permalink anchors from output |
 | 2026-11-10 | [iamvisheshsrivastava/AirKube#28](https://github.com/iamvisheshsrivastava/AirKube/pull/28) | `fix` — clean 404 for missing KG models plus endpoint coverage |
 | 2026-11-10 | [iamvisheshsrivastava/Smart_CSV_Toolkit#30](https://github.com/iamvisheshsrivastava/Smart_CSV_Toolkit/pull/30) | `fix(steps)` — correct Dataset Multiplier help text |
 | 2026-11-10 | [iamvisheshsrivastava/Smart_CSV_Toolkit#28](https://github.com/iamvisheshsrivastava/Smart_CSV_Toolkit/pull/28) | `fix` — replace removed `DataFrame.applymap` with `map` |
 | 2026-11-10 | [iamvisheshsrivastava/ab-lab#20](https://github.com/iamvisheshsrivastava/ab-lab/pull/20) | `fix` — validate simulation inputs before allocating |
 | 2026-11-10 | [iamvisheshsrivastava/geniebot#24](https://github.com/iamvisheshsrivastava/geniebot/pull/24) | `fix` — edit placeholder message on `/summarize` |
 | 2026-11-09 | [laaielichter/Gulliver#95](https://github.com/laaielichter/Gulliver/pull/95) | `fix(cli)` — refuse windows and limits below one |
-| 2026-11-09 | [lukeautry/tsoa#1925](https://github.com/lukeautry/tsoa/pull/1925) | `fix` — resolve built-in route templates when `@tsoa/cli` is bundled |
-| 2026-11-06 | [rdlugs/sentryward#226](https://github.com/rdlugs/sentryward/pull/226) | `fix(security)` — prevent account enumeration via login timing |
 
-**In review now (70 open)** — the largest single block is a locale-correctness sweep in [iamkun/dayjs](https://github.com/iamkun/dayjs) (**53 locales** where `yearStart` disagreed with CLDR `firstDay`/week rules), followed by work in `iamvisheshsrivastava/*` (geniebot, AirKube, ab-lab), `adbar/trafilatura`, `markline-dev/markline`, `finos/open-resource-broker`, `wandb/rai-toolkit`, `google/sbsim`, `date-fns/date-fns`, `OpnForm/OpnForm`, `Dpro-at/Tel-Agent`, `pygrpc/pygrpc-native`, `MysterionRise/pubchem-finder` and `datamodel-code-generator`.
+**In review now (67 open)** — the largest single block is a locale-correctness sweep in [iamkun/dayjs](https://github.com/iamkun/dayjs) (**53 locales** where `yearStart` disagreed with CLDR `firstDay`/week rules), followed by work in [vibgrate/cli](https://github.com/vibgrate/cli/pull/685) (gemspec dependency parsing), [date-fns/date-fns](https://github.com/date-fns/date-fns) (`exactOptionalPropertyTypes`), `MysterionRise/pubchem-finder`, `iamvisheshsrivastava/*` (geniebot, AirKube, ab-lab), `adbar/trafilatura`, `markline-dev/markline`, `finos/open-resource-broker`, `wandb/rai-toolkit`, `google/sbsim`, `OpnForm/OpnForm`, `Dpro-at/Tel-Agent` and `pygrpc/pygrpc-native`.
 
-To date that is 160 pull requests opened — 39 merged, 70 open, 51 closed without merge (mostly upstream preference for a different implementation). Closed branches are left closed rather than re-pinged.
+To date that is 162 pull requests opened — 43 merged, 67 open, 52 closed without merge (mostly upstream preference for a different implementation). Closed branches are left closed rather than re-pinged.
 
 → [See all pull requests](https://github.com/hamid-digitalmarketer?tab=pull-requests)
 
@@ -157,4 +159,5 @@ To date that is 160 pull requests opened — 39 merged, 70 open, 51 closed witho
 
 📬 [WhatsApp +92 316 7417135](https://wa.me/923167417135) · [abouthamid.web.app](https://abouthamid.web.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
 
-<sub>Lahore, Pakistan · Open to consulting and full-time leadership roles · All metrics verified from the GitHub API on 2026-11-11</sub>
+<sub>Lahore, Pakistan · Open to consulting and full-time leadership roles · All metrics verified from the GitHub API on 2026-11-14</sub>
+
