@@ -65,9 +65,11 @@ and I send the same class of fixes back upstream to the projects my stack actual
 
 **In review now (67 open)** — the largest single block is a locale-correctness sweep in [iamkun/dayjs](https://github.com/iamkun/dayjs) (**53 locales** where `yearStart` disagreed with CLDR `firstDay`/week rules), followed by work in [vibgrate/cli](https://github.com/vibgrate/cli/pull/685) (gemspec dependency parsing), [date-fns/date-fns](https://github.com/date-fns/date-fns) (`exactOptionalPropertyTypes`), `MysterionRise/pubchem-finder`, `iamvisheshsrivastava/*` (geniebot, AirKube, ab-lab), `adbar/trafilatura`, `markline-dev/markline`, `finos/open-resource-broker`, `wandb/rai-toolkit`, `google/sbsim`, `OpnForm/OpnForm`, `Dpro-at/Tel-Agent` and `pygrpc/pygrpc-native`.
 
+**Audit in flight — dayjs locale week rules.** The single largest open block is a systematic locale review in [iamkun/dayjs](https://github.com/iamkun/dayjs): 53 locales where `yearStart` disagrees with the CLDR `firstDay` / minimal-days rule for that region. Each PR is one locale, one table-driven test, and the CLDR citation for the expected value — [browse the entire sweep](https://github.com/iamkun/dayjs/pulls?q=is%3Apr+author%3Ahamid-digitalmarketer).
+
 To date that is 162 pull requests opened — 43 merged, 67 open, 52 closed without merge (mostly upstream preference for a different implementation). Closed branches are left closed rather than re-pinged.
 
-→ [See all pull requests](https://github.com/hamid-digitalmarketer?tab=pull-requests)
+→ [See all pull requests](https://github.com/hamid-digitalmarketer?tab=pull-requests) · [Audit log with every PR](CONTRIBUTIONS.md)
 
 ---
 
